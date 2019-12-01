@@ -1,0 +1,44 @@
+input
+{   border:2px;
+    border-style: outset;
+    border-bottom-left-radius: 10px;
+    border-bottom-color:#ee3b3b;
+    
+    padding:0.75%;
+    
+}
+
+
+#printbox
+{
+    height:842px;
+    width:595px;
+    margin: auto;
+    border: 3px solid black;
+   border-radius: 15px;
+    overflow: hidden;
+}
+
+#header
+{
+    background-color: #ee3b3b;
+    height:14%;
+    width:100%;
+    margin:0px;
+      border-radius: 15px;
+}
+.pink
+{
+    color:#ee3b3b;   
+}
+
+#printarea
+{
+   height:95%;
+   width:96%;
+    margin:18px 9px 14px 12px;
+    border: 3px solid black;
+   border-radius: 15px;
+    overflow: hidden;   
+}
+
