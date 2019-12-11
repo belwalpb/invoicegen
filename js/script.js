@@ -72,7 +72,7 @@ function refreshprintarea()
     document.getElementById("taxamount").innerHTML=taxamount;
     document.getElementById("discountamount").innerHTML=discountamount;
     
-    totalprice=totalprice+tax-discount;
+    totalprice=totalprice+taxamount-discount;
     
     
    
